@@ -8,7 +8,7 @@ SOC operations, and defensive strategies.
 
 ## 📄 Reports
 
-### 1. Incident Response Report — Deepfake-Assisted Phishing Attack
+### 1. Incident Response Report — Deepfake Phishing Attack
 **Organization:** Nomani Investment  
 **Date:** April 18, 2026  
 **Severity:** High  
@@ -19,7 +19,7 @@ the finance department of Nomani Investment. Covers full IR lifecycle including
 attack timeline, MITRE ATT&CK mapping, evidence analysis, risk assessment, 
 and recommendations.
 
-📥 [Download Report](./Nomani_Incident_Report_Improved.docx)
+📥 [Download Report](./Nomani_Incident_Report.pdf)
 
 ---
 
